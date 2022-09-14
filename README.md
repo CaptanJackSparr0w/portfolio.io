@@ -7,7 +7,7 @@ Web Developer and designer
 Great in design and integration with intuitive problem-solving skills. Proficient in Python, JAVA, and SQL. Passionate about implementing and launching new projects. Ability to translate business requisites into technical solutions. Looking to endure a career as a software engineer with a reputed firm driven by technology to enhance my skills...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://captanjacksparr0w.github.io/Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://captanjacksparr0w.github.io/portfolio.io/)
 * ✉️  You can contact me at [runeshbhardwaj09@gmail.com](mailto:runeshbhardwaj09@gmail.com)
 * 🚀  I'm currently working on [Sudoku Solver using Python](http://github.com/CaptanJackSparr0w/Sudoku_Solver)
 * 🧠  I'm learning Artificial Intelligence and Machine lerning
