@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.my-col{
+    border:2px solid red;
+}
+#one .row{
+    height: 2500px;
+}
